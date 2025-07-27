@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\siteacademia\\siteacademia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\siteacademia\\siteacademia\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\siteacademia\\siteacademia\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\siteacademia\\siteacademia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\siteacademia\\siteacademia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\siteacademia\\siteacademia\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\siteacademia\\siteacademia\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\siteacademia\\siteacademia\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\siteacademia\\siteacademia\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|solutionrelative:models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|d:\\\u00E1rea de trabalho\\reporitorio\\siteacademia\\siteacademia\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E8368950-2E6A-46F4-97C1-7DCC86CCF492}|SiteAcademia.csproj|solutionrelative:wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,6 +51,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:54:13.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "Controllers\\ContatoController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:50:39.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:49:19.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:47:53.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "Models\\Contato.cs",
+              "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Models\\Contato.cs",
+              "RelativeToolTip": "Models\\Contato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:43:13.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "styles.css",
               "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\wwwroot\\css\\styles.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\styles.css",
@@ -38,12 +123,11 @@
               "RelativeToolTip": "wwwroot\\css\\styles.css",
               "ViewState": "AQIAAOcAAAAAAAAAAAAAAAkBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-07-27T18:50:51.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T18:50:51.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -56,13 +140,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\\u00C1rea de Trabalho\\reporitorio\\SiteAcademia\\SiteAcademia\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-27T18:40:09.548Z",
               "EditorCaption": ""

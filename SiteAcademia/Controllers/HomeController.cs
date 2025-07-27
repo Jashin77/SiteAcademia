@@ -17,6 +17,9 @@ namespace SiteAcademia.Controllers
         {
             return View();
         }
+        public IActionResult Precos() => View();
+        public IActionResult Contato() => View();
+        public IActionResult Entrar() => View();
 
         public IActionResult Privacy()
         {

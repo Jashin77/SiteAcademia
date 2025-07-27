@@ -8,10 +8,10 @@
             <img src="~/img/714e69a18bded4355d37a7026eff0675.png" alt="maximize fit" class="logo">
         </a>
         <ul class="navbar-items">
-            <li><a href="#">home</a></li>
-            <li><a href="#">preços</a></li>
-            <li><a href="#">contatos</a></li>
-            <li><a href="#" class="default-btn">Entrar</a></li>
+            <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+            <li><a asp-controller="Home" asp-action="Precos">Preços</a></li>
+            <li><a asp-controller="Home" asp-action="Contato">Contatos</a></li>
+            <li><a asp-controller="Home" asp-action="Entrar">Entrar</a></li>
         </ul>
     </nav>
 </header>
@@ -107,11 +107,11 @@
     <section class="contact-container">
         <h2>Mande uma mensagem</h2>
         <p>Envie uma mensagem, e em até 4 horas um especialista entrara em contato!</p>
-        <form>
-            <input type="text" name="name" id="name" placeholder="Seu Nome">
-            <input type="email" name="email" id="email" placeholder="seu email">
-            <textarea name="message" id="message" placeholder="descreva oque vc precisa"></textarea>
-            <input type="submit" value="Enviar">
+        <form asp-controller="Contato" asp-action="Enviar" method="post">
+            <input name="Nome" placeholder="Seu Nome" required />
+            <input name="Email" placeholder="Seu Email" type="email" required />
+            <textarea name="Mensagem" placeholder="Descreva o que você precisa" required></textarea>
+            <button type="submit">Enviar</button>
         </form>
     </section>
 </main>

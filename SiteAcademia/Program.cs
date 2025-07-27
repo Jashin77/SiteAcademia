@@ -1,5 +1,10 @@
+using SiteAcademia.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
+// Configurar SQLite
+builder.Services.AppDbContext<AppDbContext>(options =>
+    options.UseSqlite("Data Source=app.db"));
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 

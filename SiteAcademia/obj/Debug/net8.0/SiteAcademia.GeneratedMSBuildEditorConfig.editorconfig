@@ -18,8 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Área de Trabalho\reporitorio\SiteAcademia\SiteAcademia
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Área de Trabalho/reporitorio/SiteAcademia/SiteAcademia/Views/Home/Contato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/reporitorio/SiteAcademia/SiteAcademia/Views/Home/Entrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFbnRyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Área de Trabalho/reporitorio/SiteAcademia/SiteAcademia/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Área de Trabalho/reporitorio/SiteAcademia/SiteAcademia/Views/Home/Precos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcmVjb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Área de Trabalho/reporitorio/SiteAcademia/SiteAcademia/Views/Home/Privacy.cshtml]
